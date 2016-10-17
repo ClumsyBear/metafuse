@@ -1,8 +1,8 @@
-b3fb4076a8895d09b8291234fae4d1e5 *DESCRIPTION
-f560c492ed4b5d8af4c939012110226c *NAMESPACE
-fe45e11c309c22aae216e71171c2e3f6 *R/metafuse.R
-d37587f53d1214bf79bfea1e2882720c *build/partial.rdb
-e16d3672be8f72df367bf36e8e446b29 *man/datagenerator.Rd
-7ccee7cf558fa830c71213e737f7d2e6 *man/metafuse-package.Rd
-92c038098ec71798d0e0ff274c337de1 *man/metafuse.Rd
-d1e6627f1f3f7bc1bb4d8ad7df50a317 *man/metafuse.l.Rd
+ca32aa35507dad206837391994f05243 *DESCRIPTION
+acc3c798cfbd916a1d506199c4bb1608 *NAMESPACE
+207d1c689f55e620dbba51e4ef457cd4 *R/metafuse_functions.R
+69bcce19cd6e7a4380dfef2a80dbcbc4 *build/partial.rdb
+eb1016db1412b2e6f37ced3c8fa054b5 *man/datagenerator.Rd
+829bb01b1ee58b5a6bbc57282790ba28 *man/metafuse-package.Rd
+47c5bede6a36af97684bf673f2a43d69 *man/metafuse.Rd
+5b39b3cba08ecc146bb6b0f8ab47a600 *man/metafuse.l.Rd

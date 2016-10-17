@@ -1,15 +1,17 @@
 Package: metafuse
 Type: Package
 Title: Fused Lasso Approach in Regression Coefficient Clustering
-Version: 1.0-1
-Date: 2015-11-06
-Author: Lu Tang, Peter X.K. Song
+Version: 2.0-1
+Date: 2016-10-16
+Author: Lu Tang, Ling Zhou, Peter X.K. Song
 Maintainer: Lu Tang <lutang@umich.edu>
-Description: For each covariate, cluster its coefficient effects across different data sets during
-  data integration. Supports Gaussian, binomial and Poisson regression models.
+Description: Fused lasso method to cluster and estimate regression coefficients
+    of the same covariate across different data sets when a large number of
+    independent data sets are combined. Package supports Gaussian, binomial,
+    Poisson and Cox PH models.
 License: GPL-2
-Imports: glmnet, Matrix, MASS
+Imports: glmnet, Matrix, MASS, evd
 Repository: CRAN
 NeedsCompilation: no
-Packaged: 2015-11-07 05:26:53 UTC; Lu
-Date/Publication: 2015-11-07 07:24:15
+Packaged: 2016-10-16 20:16:32 UTC; Lu
+Date/Publication: 2016-10-17 00:37:55
