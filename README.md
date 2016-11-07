@@ -8,4 +8,5 @@ Tang, L., & Song, P. X. (2016). Fused Lasso Approach in Regression Coefficients 
 
 To use it in R
 > install.packages("metafuse");
-> library(metafuse)
+
+> library(metafuse);
