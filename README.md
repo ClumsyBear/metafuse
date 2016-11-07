@@ -7,5 +7,5 @@ This R package is developed to accompany the following publication:
 Tang, L., & Song, P. X. (2016). Fused Lasso Approach in Regression Coefficients Clustering–Learning Parameter Heterogeneity in Data Integration. Journal of Machine Learning Research, 17(113), 1-23.
 
 To use it in R
-> install.packages("metafuse")
+> install.packages("metafuse");
 > library(metafuse)
